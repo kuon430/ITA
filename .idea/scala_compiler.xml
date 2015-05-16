@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="featureWarnings" value="true" />
+    <parameters>
+      <parameter value="-bootclasspath" />
+      <parameter value="C:\Users\b1012215\AppData\Local\Android\android-sdk\platforms\android-17\android.jar" />
+      <parameter value="-javabootclasspath" />
+    </parameters>
+  </component>
+</project>

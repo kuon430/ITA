@@ -1,0 +1,214 @@
+[info] Updating {file:/C:/Users/b1012215/mikumikustudioandroidapp/}default-e36efe...
+[debug] :: resolving dependencies :: com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT
+[debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom]
+[debug] 	validate = true
+[debug] 	refresh = false
+[debug] resolving dependencies for configuration 'compile'
+[debug] == resolving dependencies for com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT [compile]
+[debug] == resolving dependencies com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->default(compile)]
+[info] Resolving org.scala-lang#scala-library;2.10.2 ...
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-library;2.10.2 {compile=[default(compile)]}
+[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.2
+[debug] 	local: revision in cache: org.scala-lang#scala-library;2.10.2
+[debug] 	found org.scala-lang#scala-library;2.10.2 in sbt-chain
+[debug] == resolving dependencies com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->runtime]
+[debug] == resolving dependencies com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->compile]
+[debug] == resolving dependencies com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->master]
+[debug] == resolving dependencies com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT->info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT [compile->android]
+[info] Resolving info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT ...
+[debug] sbt-chain: Checking cache for: dependency: info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT {compile=[android]}
+[debug] don't use cache for info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT: changing=true
+[debug] don't use cache for info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT: changing=true
+[debug] 		tried C:\Users\b1012215\.ivy2\local\info.projectkyoto\mikumikustudio-lib\0.2-SNAPSHOT\ivys\ivy.xml
+[debug] 	local: no ivy file found for info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT
+[debug] don't use cache for info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT: changing=true
+[debug] 	maven-metadata not available: file:/C:/Users/b1012215/AppData/Local/Android/android-sdk/extras/google/m2repository/info/projectkyoto/mikumikustudio-lib/0.2-SNAPSHOT/maven-metadata.xml
+[debug] 		tried file:/C:/Users/b1012215/AppData/Local/Android/android-sdk/extras/google/m2repository/info/projectkyoto/mikumikustudio-lib/0.2-SNAPSHOT/mikumikustudio-lib-0.2-SNAPSHOT.pom
+[debug] 	google libraries: no ivy file found for info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT
+[debug] don't use cache for info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT: changing=true
+[debug] 	maven-metadata not available: file:/C:/Users/b1012215/AppData/Local/Android/android-sdk/extras/android/m2repository/info/projectkyoto/mikumikustudio-lib/0.2-SNAPSHOT/maven-metadata.xml
+[debug] 		tried file:/C:/Users/b1012215/AppData/Local/Android/android-sdk/extras/android/m2repository/info/projectkyoto/mikumikustudio-lib/0.2-SNAPSHOT/mikumikustudio-lib-0.2-SNAPSHOT.pom
+[debug] 	android libraries: no ivy file found for info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT
+[debug] don't use cache for info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT: changing=true
+[debug] 		tried https://raw.github.com/chototsu/testrepo/master/ivy2/info.projectkyoto/mikumikustudio-lib/0.2-SNAPSHOT/ivys/ivy.xml
+[debug] 	testrepo2: found md file for info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT
+[debug] 		=> https://raw.github.com/chototsu/testrepo/master/ivy2/info.projectkyoto/mikumikustudio-lib/0.2-SNAPSHOT/ivys/ivy.xml (0.2-SNAPSHOT)
+[debug] 	default-cache: revision in cache (not updated): info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT
+[debug] 	found info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT in sbt-chain
+[debug] == resolving dependencies info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT->java3d#vecmath;1.3.1 [android->default]
+[info] Resolving java3d#vecmath;1.3.1 ...
+[debug] sbt-chain: Checking cache for: dependency: java3d#vecmath;1.3.1 {default=[default], android=[default]}
+[debug] sbt-chain: module revision found in cache: java3d#vecmath;1.3.1
+[debug] 	local: revision in cache: java3d#vecmath;1.3.1
+[debug] 	found java3d#vecmath;1.3.1 in sbt-chain
+[debug] == resolving dependencies info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT->java3d#vecmath;1.3.1 [android->runtime]
+[debug] == resolving dependencies info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT->java3d#vecmath;1.3.1 [android->compile]
+[debug] == resolving dependencies info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT->java3d#vecmath;1.3.1 [android->master]
+[debug] == resolving dependencies com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT->info.projectkyoto#mmstestdata;0.1-SNAPSHOT [compile->default(compile)]
+[info] Resolving info.projectkyoto#mmstestdata;0.1-SNAPSHOT ...
+[debug] sbt-chain: Checking cache for: dependency: info.projectkyoto#mmstestdata;0.1-SNAPSHOT {compile=[default(compile)]}
+[debug] don't use cache for info.projectkyoto#mmstestdata;0.1-SNAPSHOT: changing=true
+[debug] don't use cache for info.projectkyoto#mmstestdata;0.1-SNAPSHOT: changing=true
+[debug] 		tried C:\Users\b1012215\.ivy2\local\info.projectkyoto\mmstestdata\0.1-SNAPSHOT\ivys\ivy.xml
+[debug] 	local: no ivy file found for info.projectkyoto#mmstestdata;0.1-SNAPSHOT
+[debug] don't use cache for info.projectkyoto#mmstestdata;0.1-SNAPSHOT: changing=true
+[debug] 	maven-metadata not available: file:/C:/Users/b1012215/AppData/Local/Android/android-sdk/extras/google/m2repository/info/projectkyoto/mmstestdata/0.1-SNAPSHOT/maven-metadata.xml
+[debug] 		tried file:/C:/Users/b1012215/AppData/Local/Android/android-sdk/extras/google/m2repository/info/projectkyoto/mmstestdata/0.1-SNAPSHOT/mmstestdata-0.1-SNAPSHOT.pom
+[debug] 	google libraries: no ivy file found for info.projectkyoto#mmstestdata;0.1-SNAPSHOT
+[debug] don't use cache for info.projectkyoto#mmstestdata;0.1-SNAPSHOT: changing=true
+[debug] 	maven-metadata not available: file:/C:/Users/b1012215/AppData/Local/Android/android-sdk/extras/android/m2repository/info/projectkyoto/mmstestdata/0.1-SNAPSHOT/maven-metadata.xml
+[debug] 		tried file:/C:/Users/b1012215/AppData/Local/Android/android-sdk/extras/android/m2repository/info/projectkyoto/mmstestdata/0.1-SNAPSHOT/mmstestdata-0.1-SNAPSHOT.pom
+[debug] 	android libraries: no ivy file found for info.projectkyoto#mmstestdata;0.1-SNAPSHOT
+[debug] don't use cache for info.projectkyoto#mmstestdata;0.1-SNAPSHOT: changing=true
+[debug] 		tried https://raw.github.com/chototsu/testrepo/master/ivy2/info.projectkyoto/mmstestdata/0.1-SNAPSHOT/ivys/ivy.xml
+[debug] 	testrepo2: found md file for info.projectkyoto#mmstestdata;0.1-SNAPSHOT
+[debug] 		=> https://raw.github.com/chototsu/testrepo/master/ivy2/info.projectkyoto/mmstestdata/0.1-SNAPSHOT/ivys/ivy.xml (0.1-SNAPSHOT)
+[debug] 	default-cache: revision in cache (not updated): info.projectkyoto#mmstestdata;0.1-SNAPSHOT
+[debug] 	found info.projectkyoto#mmstestdata;0.1-SNAPSHOT in sbt-chain
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.2 {compile=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.2 {compile=[default(compile)]}
+[debug] == resolving dependencies info.projectkyoto#mmstestdata;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->default(compile)]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.2 {compile=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.2 {compile=[default(compile)]}
+[debug] == resolving dependencies info.projectkyoto#mmstestdata;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->runtime]
+[debug] == resolving dependencies info.projectkyoto#mmstestdata;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->compile]
+[debug] == resolving dependencies info.projectkyoto#mmstestdata;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->master]
+[debug] resolving dependencies for configuration 'runtime'
+[debug] == resolving dependencies for com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT [runtime]
+[debug] == resolving dependencies for com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT [compile]
+[debug] == resolving dependencies com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->default(compile)]
+[debug] == resolving dependencies com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->runtime]
+[debug] == resolving dependencies com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->compile]
+[debug] == resolving dependencies com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->master]
+[debug] == resolving dependencies com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT->info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT [compile->android]
+[debug] == resolving dependencies info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT->java3d#vecmath;1.3.1 [android->default]
+[debug] == resolving dependencies info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT->java3d#vecmath;1.3.1 [android->runtime]
+[debug] == resolving dependencies info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT->java3d#vecmath;1.3.1 [android->compile]
+[debug] == resolving dependencies info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT->java3d#vecmath;1.3.1 [android->master]
+[debug] == resolving dependencies com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT->info.projectkyoto#mmstestdata;0.1-SNAPSHOT [compile->default(compile)]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.2 {compile=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.2 {compile=[default(compile)]}
+[debug] == resolving dependencies info.projectkyoto#mmstestdata;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->default(compile)]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.2 {compile=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.2 {compile=[default(compile)]}
+[debug] == resolving dependencies info.projectkyoto#mmstestdata;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->runtime]
+[debug] == resolving dependencies info.projectkyoto#mmstestdata;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->compile]
+[debug] == resolving dependencies info.projectkyoto#mmstestdata;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->master]
+[debug] resolving dependencies for configuration 'test'
+[debug] == resolving dependencies for com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT [test]
+[debug] == resolving dependencies for com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT [runtime]
+[debug] == resolving dependencies for com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT [compile]
+[debug] == resolving dependencies com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->default(compile)]
+[debug] == resolving dependencies com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->runtime]
+[debug] == resolving dependencies com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->compile]
+[debug] == resolving dependencies com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->master]
+[debug] == resolving dependencies com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT->info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT [compile->android]
+[debug] == resolving dependencies info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT->java3d#vecmath;1.3.1 [android->default]
+[debug] == resolving dependencies info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT->java3d#vecmath;1.3.1 [android->runtime]
+[debug] == resolving dependencies info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT->java3d#vecmath;1.3.1 [android->compile]
+[debug] == resolving dependencies info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT->java3d#vecmath;1.3.1 [android->master]
+[debug] == resolving dependencies com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT->info.projectkyoto#mmstestdata;0.1-SNAPSHOT [compile->default(compile)]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.2 {compile=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.2 {compile=[default(compile)]}
+[debug] == resolving dependencies info.projectkyoto#mmstestdata;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->default(compile)]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.2 {compile=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.2 {compile=[default(compile)]}
+[debug] == resolving dependencies info.projectkyoto#mmstestdata;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->runtime]
+[debug] == resolving dependencies info.projectkyoto#mmstestdata;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->compile]
+[debug] == resolving dependencies info.projectkyoto#mmstestdata;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->master]
+[debug] resolving dependencies for configuration 'provided'
+[debug] == resolving dependencies for com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT [provided]
+[debug] resolving dependencies for configuration 'optional'
+[debug] == resolving dependencies for com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT [optional]
+[debug] resolving dependencies for configuration 'compile-internal'
+[debug] == resolving dependencies for com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT [compile-internal]
+[debug] == resolving dependencies for com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT [compile]
+[debug] == resolving dependencies com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->default(compile)]
+[debug] == resolving dependencies com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->runtime]
+[debug] == resolving dependencies com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->compile]
+[debug] == resolving dependencies com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->master]
+[debug] == resolving dependencies com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT->info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT [compile->android]
+[debug] == resolving dependencies info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT->java3d#vecmath;1.3.1 [android->default]
+[debug] == resolving dependencies info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT->java3d#vecmath;1.3.1 [android->runtime]
+[debug] == resolving dependencies info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT->java3d#vecmath;1.3.1 [android->compile]
+[debug] == resolving dependencies info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT->java3d#vecmath;1.3.1 [android->master]
+[debug] == resolving dependencies com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT->info.projectkyoto#mmstestdata;0.1-SNAPSHOT [compile->default(compile)]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.2 {compile=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.2 {compile=[default(compile)]}
+[debug] == resolving dependencies info.projectkyoto#mmstestdata;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->default(compile)]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.2 {compile=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.2 {compile=[default(compile)]}
+[debug] == resolving dependencies info.projectkyoto#mmstestdata;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->runtime]
+[debug] == resolving dependencies info.projectkyoto#mmstestdata;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->compile]
+[debug] == resolving dependencies info.projectkyoto#mmstestdata;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->master]
+[debug] == resolving dependencies for com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT [optional]
+[debug] == resolving dependencies for com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT [provided]
+[debug] resolving dependencies for configuration 'runtime-internal'
+[debug] == resolving dependencies for com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT [runtime-internal]
+[debug] == resolving dependencies for com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT [runtime]
+[debug] == resolving dependencies for com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT [compile]
+[debug] == resolving dependencies com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->default(compile)]
+[debug] == resolving dependencies com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->runtime]
+[debug] == resolving dependencies com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->compile]
+[debug] == resolving dependencies com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->master]
+[debug] == resolving dependencies com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT->info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT [compile->android]
+[debug] == resolving dependencies info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT->java3d#vecmath;1.3.1 [android->default]
+[debug] == resolving dependencies info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT->java3d#vecmath;1.3.1 [android->runtime]
+[debug] == resolving dependencies info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT->java3d#vecmath;1.3.1 [android->compile]
+[debug] == resolving dependencies info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT->java3d#vecmath;1.3.1 [android->master]
+[debug] == resolving dependencies com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT->info.projectkyoto#mmstestdata;0.1-SNAPSHOT [compile->default(compile)]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.2 {compile=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.2 {compile=[default(compile)]}
+[debug] == resolving dependencies info.projectkyoto#mmstestdata;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->default(compile)]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.2 {compile=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.2 {compile=[default(compile)]}
+[debug] == resolving dependencies info.projectkyoto#mmstestdata;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->runtime]
+[debug] == resolving dependencies info.projectkyoto#mmstestdata;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->compile]
+[debug] == resolving dependencies info.projectkyoto#mmstestdata;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->master]
+[debug] == resolving dependencies for com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT [optional]
+[debug] resolving dependencies for configuration 'test-internal'
+[debug] == resolving dependencies for com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT [test-internal]
+[debug] == resolving dependencies for com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT [test]
+[debug] == resolving dependencies for com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT [runtime]
+[debug] == resolving dependencies for com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT [compile]
+[debug] == resolving dependencies com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->default(compile)]
+[debug] == resolving dependencies com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->runtime]
+[debug] == resolving dependencies com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->compile]
+[debug] == resolving dependencies com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->master]
+[debug] == resolving dependencies com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT->info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT [compile->android]
+[debug] == resolving dependencies info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT->java3d#vecmath;1.3.1 [android->default]
+[debug] == resolving dependencies info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT->java3d#vecmath;1.3.1 [android->runtime]
+[debug] == resolving dependencies info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT->java3d#vecmath;1.3.1 [android->compile]
+[debug] == resolving dependencies info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT->java3d#vecmath;1.3.1 [android->master]
+[debug] == resolving dependencies com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT->info.projectkyoto#mmstestdata;0.1-SNAPSHOT [compile->default(compile)]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.2 {compile=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.2 {compile=[default(compile)]}
+[debug] == resolving dependencies info.projectkyoto#mmstestdata;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->default(compile)]
+[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.2 {compile=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.2 {compile=[default(compile)]}
+[debug] == resolving dependencies info.projectkyoto#mmstestdata;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->runtime]
+[debug] == resolving dependencies info.projectkyoto#mmstestdata;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->compile]
+[debug] == resolving dependencies info.projectkyoto#mmstestdata;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->master]
+[debug] == resolving dependencies for com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT [optional]
+[debug] == resolving dependencies for com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT [provided]
+[debug] resolving dependencies for configuration 'plugin'
+[debug] == resolving dependencies for com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT [plugin]
+[debug] resolving dependencies for configuration 'sources'
+[debug] == resolving dependencies for com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT [sources]
+[debug] resolving dependencies for configuration 'docs'
+[debug] == resolving dependencies for com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT [docs]
+[debug] resolving dependencies for configuration 'pom'
+[debug] == resolving dependencies for com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT [pom]
+[debug] 	resolved ivy file produced in C:\Users\b1012215\mikumikustudioandroidapp\target\resolution-cache\com.example2\mikumikustudioandroidapp_2.10\0.1-SNAPSHOT\resolved.xml.xml
+[debug] :: downloading artifacts ::
+[debug] 	[NOT REQUIRED] info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT!j-ogg-oggd.jar
+[debug] 	[NOT REQUIRED] info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT!jMonkeyEngine3-android.jar
+[debug] 	[NOT REQUIRED] info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT!eventbus.jar
+[debug] 	[NOT REQUIRED] info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT!jME3-bullet-natives-android.jar
+[debug] 	[NOT REQUIRED] info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT!j-ogg-vorbisd.jar
+[debug] 	[NOT REQUIRED] info.projectkyoto#mikumikustudio-lib;0.2-SNAPSHOT!jME3-bullet.jar
+[debug] 	[NOT REQUIRED] info.projectkyoto#mmstestdata;0.1-SNAPSHOT!mmstestdata.jar
+[debug] 	[NOT REQUIRED] java3d#vecmath;1.3.1!vecmath.jar
+[debug] :: resolution report :: resolve 12105ms :: artifacts dl 21ms
+[debug] 	report for com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT compile produced in C:\Users\b1012215\mikumikustudioandroidapp\target\resolution-cache\reports\com.example2-mikumikustudioandroidapp_2.10-compile.xml
+[debug] 	report for com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT runtime produced in C:\Users\b1012215\mikumikustudioandroidapp\target\resolution-cache\reports\com.example2-mikumikustudioandroidapp_2.10-runtime.xml
+[debug] 	report for com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT test produced in C:\Users\b1012215\mikumikustudioandroidapp\target\resolution-cache\reports\com.example2-mikumikustudioandroidapp_2.10-test.xml
+[debug] 	report for com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT provided produced in C:\Users\b1012215\mikumikustudioandroidapp\target\resolution-cache\reports\com.example2-mikumikustudioandroidapp_2.10-provided.xml
+[debug] 	report for com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT optional produced in C:\Users\b1012215\mikumikustudioandroidapp\target\resolution-cache\reports\com.example2-mikumikustudioandroidapp_2.10-optional.xml
+[debug] 	report for com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT compile-internal produced in C:\Users\b1012215\mikumikustudioandroidapp\target\resolution-cache\reports\com.example2-mikumikustudioandroidapp_2.10-compile-internal.xml
+[debug] 	report for com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT runtime-internal produced in C:\Users\b1012215\mikumikustudioandroidapp\target\resolution-cache\reports\com.example2-mikumikustudioandroidapp_2.10-runtime-internal.xml
+[debug] 	report for com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT test-internal produced in C:\Users\b1012215\mikumikustudioandroidapp\target\resolution-cache\reports\com.example2-mikumikustudioandroidapp_2.10-test-internal.xml
+[debug] 	report for com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT plugin produced in C:\Users\b1012215\mikumikustudioandroidapp\target\resolution-cache\reports\com.example2-mikumikustudioandroidapp_2.10-plugin.xml
+[debug] 	report for com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT sources produced in C:\Users\b1012215\mikumikustudioandroidapp\target\resolution-cache\reports\com.example2-mikumikustudioandroidapp_2.10-sources.xml
+[debug] 	report for com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT docs produced in C:\Users\b1012215\mikumikustudioandroidapp\target\resolution-cache\reports\com.example2-mikumikustudioandroidapp_2.10-docs.xml
+[debug] 	report for com.example2#mikumikustudioandroidapp_2.10;0.1-SNAPSHOT pom produced in C:\Users\b1012215\mikumikustudioandroidapp\target\resolution-cache\reports\com.example2-mikumikustudioandroidapp_2.10-pom.xml
+[debug] 	resolve done (12105ms resolve - 21ms download)
+[info] Done updating.

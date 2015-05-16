@@ -1,0 +1,9 @@
+[debug] Other repositories:
+[debug] Default repositories:
+[debug] 	Raw(ProjectResolver(inter-project, mapped: ))
+[debug] 	FileRepository(local,FileConfiguration(true,None),Patterns(ivyPatterns=List(${ivy.home}/local/[organisation]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]), artifactPatterns=List(${ivy.home}/local/[organisation]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]), isMavenCompatible=false))
+[debug] 	google libraries: file:/C:/Users/b1012215/AppData/Local/Android/android-sdk/extras/google/m2repository
+[debug] 	android libraries: file:/C:/Users/b1012215/AppData/Local/Android/android-sdk/extras/android/m2repository
+[debug] 	URLRepository(testrepo2,Patterns(ivyPatterns=ArrayBuffer(https://raw.github.com/chototsu/testrepo/master/ivy2/[organisation]/[module]/[revision]/[type]s/[artifact].[ext]), artifactPatterns=ArrayBuffer(https://raw.github.com/chototsu/testrepo/master/ivy2/[organisation]/[module]/[revision]/[type]s/[artifact].[ext]), isMavenCompatible=false))
+[debug] 	public: http://repo1.maven.org/maven2/
+[debug] Using inline dependencies specified in Scala.

@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0mGenerating R.java[0m
+[0m[[0mdebug[0m] [0mAll libs: List()[0m
+[0m[[0mdebug[0m] [0mAll packages: List()[0m
+[0m[[0mdebug[0m] [0mpackageForR: com.example2.app[0m
+[0m[[0mdebug[0m] [0mproguard.txt: C:\Users\b1012215\mikumikustudioandroidapp\bin\proguard.txt[0m
+[0m[[0mdebug[0m] [0mIn modified: Set(C:\Users\b1012215\mikumikustudioandroidapp\bin\assets\Sounds\what.ogg, C:\Users\b1012215\mikumikustudioandroidapp\bin\assets\akireta.ogg, C:\Users\b1012215\mikumikustudioandroidapp\bin\assets\great.ogg, C:\Users\b1012215\mikumikustudioandroidapp\bin\assets\Sounds\great.ogg, C:\Users\b1012215\mikumikustudioandroidapp\bin\assets\sleepy.ogg, C:\Users\b1012215\mikumikustudioandroidapp\bin\assets\notkitaku.ogg, C:\Users\b1012215\mikumikustudioandroidapp\bin\assets\Sounds\dousiyou.ogg, C:\Users\b1012215\mikumikustudioandroidapp\bin\assets\Sounds\sleepy.ogg, C:\Users\b1012215\mikumikustudioandroidapp\bin\assets\Sounds\akireta.ogg, C:\Users\b1012215\mikumikustudioandroidapp\bin\assets\dousiyou.ogg, C:\Users\b1012215\mikumikustudioandroidapp\bin\assets\what.ogg)[0m
+[0m[[0mdebug[0m] [0mInRemoved: Set()[0m
+[0m[[0mdebug[0m] [0mOut checked: Set(C:\Users\b1012215\mikumikustudioandroidapp\gen\com\example2\app\R.java)[0m
+[0m[[0mdebug[0m] [0mOut modified: Set()[0m

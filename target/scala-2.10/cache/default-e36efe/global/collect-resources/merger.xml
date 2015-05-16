@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="C:\Users\b1012215\mikumikustudioandroidapp\res" >
+        <source path="C:\Users\b1012215\mikumikustudioandroidapp\res" >
+            <file
+                name="ic_launcher"
+                path="C:\Users\b1012215\mikumikustudioandroidapp\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\b1012215\mikumikustudioandroidapp\res\drawable-ldpi\ic_launcher.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\b1012215\mikumikustudioandroidapp\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="main"
+                path="C:\Users\b1012215\mikumikustudioandroidapp\res\layout\main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="C:\Users\b1012215\mikumikustudioandroidapp\res\values\strings.xml"
+                qualifiers="" >
+                <string name="app_name" >MikuMikuStudioAndroidApp
+                </string>
+                <string name="button2" ></string>
+            </file>
+            <file
+                name="初音ミクVer2"
+                path="C:\Users\b1012215\mikumikustudioandroidapp\res\drawable-hdpi\初音ミクVer2.pmd"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="nb"
+                path="C:\Users\b1012215\mikumikustudioandroidapp\res\raw\nb.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="wp"
+                path="C:\Users\b1012215\mikumikustudioandroidapp\res\raw\wp.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="nk"
+                path="C:\Users\b1012215\mikumikustudioandroidapp\res\raw\nk.wav"
+                qualifiers=""
+                type="raw" />
+        </source>
+    </dataSet>
+    <dataSet config="C:\Users\b1012215\mikumikustudioandroidapp\res" >
+        <source path="C:\Users\b1012215\mikumikustudioandroidapp\res" >
+            <file
+                name="ic_launcher"
+                path="C:\Users\b1012215\mikumikustudioandroidapp\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\b1012215\mikumikustudioandroidapp\res\drawable-ldpi\ic_launcher.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\b1012215\mikumikustudioandroidapp\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="main"
+                path="C:\Users\b1012215\mikumikustudioandroidapp\res\layout\main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="C:\Users\b1012215\mikumikustudioandroidapp\res\values\strings.xml"
+                qualifiers="" >
+                <string name="app_name" >MikuMikuStudioAndroidApp
+                </string>
+            </file>
+        </source>
+    </dataSet>
+
+</merger>

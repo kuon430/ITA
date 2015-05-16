@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: java3d:vecmath:1.3.1:">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/java3d/vecmath/jars/vecmath-1.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
